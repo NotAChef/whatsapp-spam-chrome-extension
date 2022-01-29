@@ -51,25 +51,3 @@ whastapp-spam-chrome-extension/
 
 ```
 
-## Article
-If you need a thorough explanation about the project you can visit and review [this article](https://medium.com/@akashpawara/how-to-build-a-chrome-extension-to-spam-on-whatsapp-using-vanilla-javascript-1c00faa6a2f7).
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product, [contact me](https://api.whatsapp.com/send?phone=917506021898) me on whatsapp or email me at (akashpawara29@gmail.com).
-
-
-
-## Social Media
-
-Linkedin: <https://www.linkedin.com/in/akashpawara>
-
-Medium: <https://medium.com/@akashpawara>
-
-Dev: <https://dev.to/akashpawara>
-
-Behance: <https://www.behance.net/akashpawara>
-
-Instagram: <https://instagram.com/_akashpawara_>
-
-Whatsapp: <https://api.whatsapp.com/send?phone=917506021898>
