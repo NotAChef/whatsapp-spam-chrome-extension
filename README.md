@@ -1,10 +1,6 @@
 # whatsapp-spam-chrome-extension (WSCE)
 A simple Chrome extension to spam your friends or group with repetitive messages.
 
-![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discordapp.com/users/228556195689005059) [![Profile](https://img.shields.io/badge/Linkedin-akashpawara-blue)](https://www.linkedin.com/in/akashpawara)
- 
-![Product Gif](assets/icons/whatSpam.gif) 
-
 This is the first Version of the extension for Whatsapp. In this Version you can type a message and spam it to the selected chat (could be a contact or a group) how often you want. The cool thing about this extension is that the UI is binded to the Whatsapp Web UI.
 
 ## :warning: NOTE :warning:
